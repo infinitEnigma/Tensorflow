@@ -519,5 +519,3 @@ def concat_with_padding():
   return x
 
 concat_with_padding()
-
-
